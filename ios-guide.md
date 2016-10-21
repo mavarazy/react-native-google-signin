@@ -41,6 +41,8 @@ Add the end of this step, your Xcode config should look like this:
 
 [![xcode config](https://github.com/apptailor/react-native-google-signin/raw/master/img/url-config.png)](#config)
 
+- Enable Keychain Sharing in the ```Capabilities``` panel
+
 ### Project setup
 
 Inside AppDelegate.m
